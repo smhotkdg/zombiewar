@@ -1,0 +1,2389 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Achivement
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC784\uBB34"
+      - MISSION
+      - "\u4EFB\u52D9"
+      - DEBER
+      - "\u4EFB\u52D9"
+      - "\u4EFB\u52A1"
+      - "\u041C\u0438\u0441\u0441\u0438\u044F"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement1
+      TermType: 0
+      Description: 
+      Languages:
+      - "1000 \uBC88 \uD130\uCE58!!"
+      - Touch 1,000!!
+      - "1000\u56DE\u30BF\u30C3\u30C1"
+      - Touch 1,000!!
+      - "\u89F8\u64781000\u6B21\uFF01 \uFF01"
+      - "\u89E6\u64781000\u6B21\uFF01\uFF01"
+      - "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 1000 \u0440\u0430\u0437!!"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement10
+      TermType: 0
+      Description: 
+      Languages:
+      - "10\uC5B5 \uAC74\uBB3C\uC8FC"
+      - Billion landlord
+      - "10\u5104\u5EFA\u7269\u306E\u6301\u3061\u4E3B"
+      - Billion propietario
+      - "10\u5104\u5730\u7522\u5927\u4EA8"
+      - "10\u4EBF\u5730\u4EA7\u5927\u4EA8"
+      - "\u041C\u0438\u043B\u043B\u0438\u0430\u0440\u0434\u043D\u044B\u0439 \u0432\u043B\u0430\u0434\u0435\u043B\u0435\u0446
+        \u0437\u0434\u0430\u043D\u0438\u044F"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement11
+      TermType: 0
+      Description: 
+      Languages:
+      - "1\uC870 \uB9CC\uC218\uB974"
+      - Trillion businessman
+      - "1\u5146\u4E8B\u696D\u5BB6"
+      - "Trill\xF3n de negocios"
+      - "1\u5146\u674E\u5609\u8AA0"
+      - "1\u5146\u674E\u5609\u8BDA"
+      - "1\u0442\u0440\u0438\u043B\u043B\u0440\u0438\u043E\u043D \u0431\u0438\u0437\u043D\u0435\u0441\u043C\u0435\u043D"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement12
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCD08\uB2F9 \uBC31\uB9CC\uC7A5\uC790"
+      - Millionaire per second
+      - "\u6BCE\u79D2\u767E\u4E07\u9577\u8005"
+      - Millonario por segundo
+      - "\u4E00\u79D2\u767E\u842C\u5BCC\u7FC1"
+      - "\u4E00\u79D2\u767E\u4E07\u5BCC\u7FC1"
+      - "\u041C\u0438\u043B\u043B\u0438\u043E\u043D\u0435\u0440 \u0432 \u0441\u0435\u043A\u0443\u043D\u0434\u0443"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement13
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCD08\uB2F9 \uAC74\uBB3C\uC8FC"
+      - Landlord per second
+      - "\u6BCE\u5206\u5EFA\u7269\u306E\u6301\u3061\u4E3B"
+      - Propietario por segundo
+      - "\u4E00\u79D2\u5730\u7522\u5927\u4EA8"
+      - "\u4E00\u79D2\u5730\u4EA7\u5927\u4EA8"
+      - "\u0412\u043B\u0430\u0434\u0435\u043B\u0435\u0446 \u0437\u0434\u0430\u043D\u0438\u044F
+        \u0437\u0430 1 \u043C\u0438\u043B\u043B\u0438\u0430\u0440\u0434 \n\u0434\u043E\u043B\u043B\u0430\u0440\u043E\u0432
+        \u0432 \u0441\u0435\u043A\u0443\u043D\u0434\u0443"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement14
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB108\uB294 \uB0B4\uCE5C\uAD6C"
+      - You are my friend
+      - "\u3042\u306A\u305F\u306F\u53CB\u9054"
+      - Eres mi amigo
+      - "\u4F60\u662F\u6211\u7684\u670B\u53CB"
+      - "\u4F60\u662F\u6211\u7684\u670B\u53CB"
+      - "\u0422\u044B \u043C\u043E\u0439 \u0434\u0440\u0443\u0433"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement15
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB10C \uB354\uC774\uC0C1 \uD544\uC694\uC5C6\uB2E4"
+      - You do not need it anymore
+      - "\u3042\u306A\u305F\u306F\u3082\u3046\u5FC5\u8981\u306A\u3044"
+      - Ya no lo necesitas
+      - "\u4E0D\u518D\u9700\u8981\u4F60\u4E86"
+      - "\u4E0D\u518D\u9700\u8981\u4F60\u4E86"
+      - "\u0412\u0430\u043C \u044D\u0442\u043E \u0431\u043E\u043B\u044C\u0448\u0435
+        \u043D\u0435 \u043D\u0443\u0436\u043D\u043E"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement16
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uACE0\uAC31\uB2D8 \uAC10\uC0AC\uD569\uB2C8\uB2E4"
+      - Thank you
+      - "\u304A\u5BA2\u3055\u3093\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\u3002"
+      - Gracias
+      - "\u8B1D\u8B1D\u4F60\u9867\u5BA2"
+      - "\u8C22\u8C22\u4F60\u987E\u5BA2"
+      - "\u0421\u043F\u0430\u0441\u0438\u0431\u043E"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement17
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC624\uB298\uB3C4 \uC880\uBE44\uC804\uC7C1"
+      - Zombie Wars Today
+      - "\u672C\u65E5\u3082\u30BE\u30F3\u30D3\u6226\u4E89"
+      - Guerras de zombies hoy
+      - "\u4ECA\u5929\u4E5F\u662F\u6BAD\u5C4D\u6230\u722D"
+      - "\u4ECA\u5929\u4E5F\u662F\u50F5\u5C38\u6218\u4E89"
+      - "\u0417\u043E\u043C\u0431\u0438 \u0412\u043E\u0439\u043D\u044B \u0441\u0435\u0433\u043E\u0434\u043D\u044F"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement18
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBC31\uC2E0 \uC7A5\uC778"
+      - Vaccine master
+      - "\u30EF\u30AF\u30C1\u30F3\u540D\u4EBA"
+      - Maestro de vacunas
+      - "\u75AB\u82D7\u9054\u4EBA"
+      - "\u75AB\u82D7\u8FBE\u4EBA"
+      - "\u041C\u0430\u0441\u0442\u0435\u0440 \u0432\u0430\u043A\u0446\u0438\u043D"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement19
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBBF8\uAD6D\uC778\uAD6C \uB9CC\uD07C"
+      - As much as the US population
+      - "\u30A2\u30E1\u30EA\u30AB\u4EBA\u53E3\u7A0B"
+      - "Demograf\xEDa de Estados Unidos"
+      - "\u50CF\u7F8E\u570B\u4EBA\u53E3\u4E00\u6A23"
+      - "\u50CF\u7F8E\u56FD\u4EBA\u53E3\u4E00\u6837"
+      - "\u0421\u0442\u043E\u043B\u044C\u043A\u043E, \n\u0441\u043A\u043E\u043B\u044C\u043A\u043E
+        \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435 \u0421\u0428\u0410"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement2
+      TermType: 0
+      Description: 
+      Languages:
+      - "5000 \uBC88 \uD130\uCE58!!"
+      - Touch 5,000!!
+      - "5000\u56DE\u30BF\u30C3\u30C1"
+      - Touch 5,000!!
+      - "\u89F8\u64785000\u6B21!!"
+      - "\u89E6\u64785000\u6B21\uFF01\uFF01"
+      - "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 5000 \u0440\u0430\u0437!!"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement20
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC5C5\uB370\uC774\uD2B8 \uC608\uC815"
+      - Update Soon
+      - "\u30A2\u30C3\u30D7\u30C7\u30FC\u30C8\u4E88\u5B9A"
+      - Actualizar pronto.
+      - "\u9810\u8A08\u66F4\u65B0"
+      - "\u9884\u8BA1\u66F4\u65B0"
+      - "\u0421\u043A\u043E\u0440\u043E \u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement21
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC5C5\uB370\uC774\uD2B8 \uC608\uC815"
+      - Update Soon
+      - "\u30A2\u30C3\u30D7\u30C7\u30FC\u30C8\u4E88\u5B9A"
+      - Actualizar pronto.
+      - "\u9810\u8A08\u66F4\u65B0"
+      - "\u9884\u8BA1\u66F4\u65B0"
+      - "\u0421\u043A\u043E\u0440\u043E \u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement22
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC5C5\uB370\uC774\uD2B8 \uC608\uC815"
+      - Update Soon
+      - "\u30A2\u30C3\u30D7\u30C7\u30FC\u30C8\u4E88\u5B9A"
+      - Actualizar pronto.
+      - "\u9810\u8A08\u66F4\u65B0"
+      - "\u9884\u8BA1\u66F4\u65B0"
+      - "\u0421\u043A\u043E\u0440\u043E \u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement23
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC5C5\uB370\uC774\uD2B8 \uC608\uC815"
+      - Update Soon
+      - "\u30A2\u30C3\u30D7\u30C7\u30FC\u30C8\u4E88\u5B9A"
+      - Actualizar pronto.
+      - "\u9810\u8A08\u66F4\u65B0"
+      - "\u9884\u8BA1\u66F4\u65B0"
+      - "\u0421\u043A\u043E\u0440\u043E \u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement24
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC5C5\uB370\uC774\uD2B8 \uC608\uC815"
+      - Update Soon
+      - "\u30A2\u30C3\u30D7\u30C7\u30FC\u30C8\u4E88\u5B9A"
+      - Actualizar pronto.
+      - "\u9810\u8A08\u66F4\u65B0"
+      - "\u9884\u8BA1\u66F4\u65B0"
+      - "\u0421\u043A\u043E\u0440\u043E \u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement3
+      TermType: 0
+      Description: 
+      Languages:
+      - "10000 \uBC88 \uD130\uCE58!!"
+      - Touch 10,000!!
+      - "10000\u56DE\u30BF\u30C3\u30C1"
+      - Touch 10,000!!
+      - "\u89F8\u647810,000\u6B21!!"
+      - "\u89E6\u64781000\u6B21\uFF01\uFF01"
+      - "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 10000 \u0440\u0430\u0437!!"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement4
+      TermType: 0
+      Description: 
+      Languages:
+      - "1\uC2DC\uAC04 \uAC8C\uC784 \uD50C\uB808\uC774"
+      - 1 hour game play
+      - "1\u6642\u9593\u30B2\u30FC\u30E0\u30D7\u30EC\u30FC"
+      - 1 hora de juego
+      - "1\u5C0F\u6642\u6BD4\u8CFD"
+      - "1\u5C0F\u65F6\u6E38\u620F"
+      - "1 \u0447\u0430\u0441 \u0438\u0433\u0440\u044B"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement5
+      TermType: 0
+      Description: 
+      Languages:
+      - "6\uC2DC\uAC04 \uAC8C\uC784 \uD50C\uB808\uC774"
+      - 6 hour game play
+      - "6\u6642\u9593\u30B2\u30FC\u30E0\u30D7\u30EC\u30FC"
+      - 6 hora de juego
+      - "6\u5C0F\u6642\u904A\u6232"
+      - "6\u5C0F\u65F6\u6E38\u620F"
+      - "6 \u0447\u0430\u0441 \u0438\u0433\u0440\u044B"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement6
+      TermType: 0
+      Description: 
+      Languages:
+      - "12\uC2DC\uAC04 \uAC8C\uC784 \uD50C\uB808\uC774"
+      - 12 hour game play
+      - "12\u6642\u9593\u30B2\u30FC\u30E0\u30D7\u30EC\u30FC"
+      - 12 hora de juego
+      - "12\u5C0F\u6642\u904A\u6232"
+      - "12\u5C0F\u65F6\u6E38\u620F"
+      - "12 \u0447\u0430\u0441 \u0438\u0433\u0440\u044B"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement7
+      TermType: 0
+      Description: 
+      Languages:
+      - "24\uC2DC\uAC04 \uAC8C\uC784 \uD50C\uB808\uC774"
+      - 24 hour game play
+      - "24\u6642\u9593\u30B2\u30FC\u30E0\u30D7\u30EC\u30FC"
+      - 24 hora de juego
+      - "24\u5C0F\u6642\u904A\u6232"
+      - "24\u5C0F\u65F6\u6E38\u620F"
+      - "24 \u0447\u0430\u0441 \u0438\u0433\u0440\u044B"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement8
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAD11\uD130\uCE58!!"
+      - Quick touch!!
+      - "\u5149\u306E\u30BF\u30C3\u30C1"
+      - Quick touch!!
+      - "\u5FEB\u901F\u89F8\u63A7!!"
+      - "\u5FEB\u901F\u89E6\u6478\uFF01\uFF01"
+      - "\u0411\u044B\u0441\u0442\u0440\u044B\u0439 \u041A\u043B\u0438\u043A !!"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achivement9
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBC31\uB9CC \uC7A5\uC790"
+      - Millionaire
+      - "\u767E\u4E07\u9577\u8005"
+      - millonaria
+      - "\u767E\u842C\u5BCC\u7FC1"
+      - "\u767E\u4E07\u5BCC\u7FC1"
+      - "\u041C\u0438\u043B\u043B\u0438\u043E\u043D\u0435\u0440"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Ads1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC8FC\uC0AC\uAE30 1\uAC1C\n\uBC31\uC2E0,\uB3C8 10\uBC30 / \uC9C0\uC18D\uC2DC\uAC04
+        10\uCD08"
+      - 'a syringe
+
+        Vaccine, 10 times money / Ten sec duration'
+      - "\u6CE8\u5C04\u5668\u30001\u500B\r\n\u30EF\u30AF\u30C1\u30F3\u3001\u304A\u91D110\u500D/\u6301\u7D9A\u6642\u959310\u79D2"
+      - 'jeringa
+
+        Vacunas,  el dinero 10 veces / 10 segundos'
+      - "\u6CE8\u5C04\u5668\u4E00\u500B \u75AB\u82D7\uFF0C 10\u500D\u9322/\u6301\u7E8C10\u79D2"
+      - "\u6CE8\u5C04\u5668\u4E00\u4E2A\n \u75AB\u82D7\uFF0C 10\u500D\u94B1/\u6301\u7EED10\u79D2"
+      - "1 \u0448\u043F\u0440\u0438\u0446\n(\u0412\u0430\u043A\u0446\u0438\u043D\u0430,
+        \u0434\u0435\u043D\u044C\u0433\u0438) 10 \u0440\u0430\u0437\n\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C
+        10 \u0441\u0435\u043A\u0443\u043D\u0434"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: AdsPotion
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAD11\uACE0 \uC2DC\uCCAD \uC8FC\uC0AC\uAE30 +1"
+      - Watching ad  syringe +1
+      - "\u5E83\u544A\u8996\u8074\u3000\u6CE8\u5C04\u5668+1"
+      - "Inyecci\xF3n de publicidad +1"
+      - "\u5EE3\u544A\u89C0\u770B\u6CE8\u5C04\u5668+1"
+      - "\u5E7F\u544A\u89C2\u770B\u6CE8\u5C04\u5668+1"
+      - "Ad Watch \u0438 \u0448\u043F\u0440\u0438\u0446 +1"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: AdsReward
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAD11\uACE0 \uC644\uB8CC"
+      - Watching ad complete
+      - "\u5E83\u544A\u5B8C\u4E86"
+      - y vi anuncios
+      - "\u5EE3\u544A\u7D50\u675F"
+      - "\u5E7F\u544A\u7ED3\u675F"
+      - Watching ad complete
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Buy
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC2DC\uC124"
+      - BUY
+      - "\u65BD\u8A2D"
+      - COMPRAR
+      - "\u8A2D\u65BD"
+      - "\u8BBE\u65BD"
+      - "\u0421\u0430\u0434\u0430"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BuyFacilityInfo1
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=yellow>\uD558\uC218\uAD6C</color> \n(\uB178\uC219\uC790 +5)"
+      - "<color=yellow>Sewer</color> \n(homeless +5)"
+      - "<color=yellow>\u4E0B\u6C34\u53E3</color> \n \uFF08\u30DB\u30FC\u30E0\u30EC\u30B9+5\uFF09"
+      - '<color=yellow>alcantarilla</color>
+
+        (indigente +5)'
+      - "<color=yellow>\u4E0B\u6C34\u9053</color> (\u4E5E\u4E10 +5)"
+      - "<color=yellow>\u4E0B\u6C34\u9053</color> (\u4E5E\u4E10 +5)"
+      - "<color=yellow>\u041A\u0430\u043D\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F</color>
+        \n(\u0411\u0435\u0437\u0434\u043E\u043C\u043D\u044B\u0435 +5)"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BuyFacilityInfo10
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=yellow>\uBCD1\uC6D0</color> \n(\uAC04\uD638\uC0AC +50)"
+      - "<color=yellow>Hospital</color> \n(nurse +50)"
+      - "<color=yellow>\u75C5\u9662</color> \n (\u770B\u8B77\u5E2B+50)"
+      - '<color=yellow>Hospital</color>
+
+        (enfermero +50)'
+      - "<color=yellow>\u91AB\u9662</color> \n (\u8B77\u58EB +50)"
+      - "<color=yellow>\u533B\u9662</color> (\u62A4\u58EB +50)"
+      - "<color=yellow>\u0431\u043E\u043B\u044C\u043D\u0438\u0446\u0430</color> \n(\u043C\u0435\u0434\u0441\u0435\u0441\u0442\u0440\u0430
+        +50)"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BuyFacilityInfo11
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=yellow>\uD5EC\uC2A4 \uD074\uB7FD</color> \n(\uB124\uCE04\uB7F4 +75)"
+      - "<color=yellow>Gym</color> \n(trainer +75)"
+      - "<color=yellow>\u30D8\u30EB\u30B9\u30AF\u30E9\u30D6</color> \n (\u30CA\u30C1\u30E5\u30E9\u30EB+75)"
+      - '<color=yellow>Salud</color>
+
+        (natural +75)'
+      - "<color=yellow>\u5065\u8EAB\u623F</color> (\u81EA\u7136\u578B +75)"
+      - "<color=yellow>\u5065\u8EAB\u623F</color> (\u81EA\u7136\u578B +75)"
+      - "<color=yellow>\u0413\u0438\u043C\u043D\u0430\u0441\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439
+        \u0437\u0430\u043B</color> \n(\u043D\u0430\u0442\u0443\u0440\u0430\u043B\u044C\u043D\u044B\u0439
+        +75)"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BuyFacilityInfo12
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=yellow>\uCD5C\uCCA8\uB2E8 \uC5F0\uAD6C\uC18C</color> \n(\uBC15\uC0AC
+        +10)"
+      - "<color=yellow>High-tech Lab</color> \n(doctor +10)"
+      - "<color=yellow>\u6700\u5148\u7AEF\u7814\u7A76\u6240</color> \n (\u535A\u58EB+10)"
+      - '<color=yellow>laboratorio de vanguardia</color>
+
+        (doctor +10)'
+      - "<color=yellow>\u5C16\u7AEF\u7814\u7A76\u6240</color> \n (\u535A\u58EB +10)"
+      - "<color=yellow>\u5C16\u7AEF\u7814\u7A76\u6240</color> (\u535A\u58EB +10)"
+      - "<color=yellow>\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442 \u0432\u044B\u0441\u043E\u043A\u0438\u0445
+        \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0439</color> \n(\u0434\u043E\u043A\u0442\u043E\u0440
+        +10)"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BuyFacilityInfo2
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=yellow>\uC0B0\uACE8</color> \n(\uCEA0\uD551 \uC7A5\uC778 +10)"
+      - "<color=yellow>Mountain</color> \n(camper +10)"
+      - "<color=yellow>\u5C71\u5965</color> \n (\u30AD\u30E3\u30F3\u30D7\u540D\u4EBA+10)"
+      - "<color=yellow>monta\xF1osa</color>\n(camper +10)"
+      - "<color=yellow>\u5C71\u6E9D</color> (\u91CE\u71DF\u9054\u4EBA +10)"
+      - "<color=yellow>\u5C71\u8C37</color> (\u91CE\u8425\u8FBE\u4EBA +10)"
+      - "<color=yellow>\u0413\u043E\u0440\u043D\u044B\u0439 \u043B\u0435\u0441</color>
+        \n(\u043A\u0435\u043C\u043F\u0435\u0440 +10)"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BuyFacilityInfo3
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=yellow>\uBE44\uBC00 \uCC3D\uACE0</color> \n(\uC7A5\uC778 +30)"
+      - "<color=yellow>Secret warehouse</color> \n(Craftsman +30)"
+      - "<color=yellow>\u79D8\u5BC6\u5009\u5EAB</color> \n (\u540D\u4EBA+30)"
+      - '<color=yellow>cobertizo</color>
+
+        (obrero +30)'
+      - "<color=yellow>\u7955\u5BC6\u5009\u5EAB</color> (\u9054\u4EBA +30)"
+      - "<color=yellow>\u79D8\u5BC6\u4ED3\u5E93</color> (\u8FBE\u4EBA +30)"
+      - "<color=yellow>\u0421\u0435\u043A\u0440\u0435\u0442\u043D\u044B\u0439 \u0441\u043A\u043B\u0430\u0434</color>
+        \n(\u043C\u0430\u0441\u0442\u0435\u0440 +30)"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BuyFacilityInfo4
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=yellow>\uB9C8\uC744</color> \n(\uB178\uB3D9\uC790 +40)"
+      - "<color=yellow>Village</color> \n(worker +40)"
+      - "<color=yellow>\u753A</color> \n (\u52B4\u50CD\u8005+40)"
+      - '<color=yellow>pueblo</color>
+
+        (Trabajadores +40)'
+      - "<color=yellow>\u6751\u838A</color> (\u52DE\u529B +30)"
+      - "<color=yellow>\u6751\u5E84</color> (\u52B3\u529B +40)"
+      - "<color=yellow>\u0434\u0435\u0440\u0435\u0432\u043D\u044F</color> \n(\u0440\u0430\u0431\u043E\u0442\u043D\u0438\u043A
+        +30)"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BuyFacilityInfo5
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=yellow>\uCEA0\uD551\uCE74</color> \n(\uC57D\uC7A5\uC218 +45)"
+      - "<color=yellow>Camping Car</color> \n(drug peddler +45)"
+      - "<color=yellow>\u30AD\u30E3\u30F3\u30D4\u30F3\u30B0\u30AB\u30FC</color> \n
+        (\u85AC\u8CA9\u58F2\u4EBA+45)"
+      - '<color=yellow>caravana</color>
+
+        (narcotraficante +45)'
+      - "<color=yellow>\u623F\u8ECA</color> (\u85E5\u5546 +45)"
+      - "<color=yellow>\u623F\u8F66</color> (\u836F\u5546 +45)"
+      - "<color=yellow>\u043A\u0435\u043C\u043F\u0438\u043D\u0433 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C</color>
+        \n(\u0422\u043E\u0440\u0433\u043E\u0432\u0435\u0446 \u043D\u0430\u0440\u043A\u043E\u0442\u0438\u043A\u0430\u043C\u0438
+        +45)"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BuyFacilityInfo6
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=yellow>\uB18D\uC7A5</color> \n(\uB18D\uBD80 +100)"
+      - "<color=yellow>Farm</color> \n(farmer +100)"
+      - "<color=yellow>\u8FB2\u5834</color> \n (\u8FB2\u592B+100)"
+      - '<color=yellow>granja</color>
+
+        (agricultor +100)'
+      - "<color=yellow>\u8FB2\u5834</color> \n (\u8FB2\u592B +100)"
+      - "<color=yellow>\u519C\u573A</color> (\u519C\u592B +100)"
+      - "<color=yellow>\u0444\u0435\u0440\u043C\u0430</color> \n(\u043A\u0440\u0435\u0441\u0442\u044C\u044F\u043D\u0441\u043A\u0438\u0439
+        +100)"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BuyFacilityInfo7
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=yellow>\uC5F0\uAD6C\uC2E4</color> \n(\uC5F0\uAD6C\uC6D0 +50)"
+      - "<color=yellow>Laboratory </color> \n(researcher +50)"
+      - "<color=yellow>\u7814\u7A76\u5BA4</color> \n (\u7814\u7A76\u54E1+50)"
+      - '<color=yellow>laboratorio</color>
+
+        (investigadora +50)'
+      - "<color=yellow>\u7814\u7A76\u5BA4</color> \n (\u7814\u7A76\u54E1 +50)"
+      - "<color=yellow>\u7814\u7A76\u5BA4</color> (\u7814\u7A76\u5458 +50)"
+      - "<color=yellow>\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u044F</color>
+        \n(\u0438\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C
+        +50)"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BuyFacilityInfo8
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=yellow>\uD559\uAD50</color> \n(\uD559\uC0DD +100)"
+      - "<color=yellow>School</color> \n(student +100)"
+      - "<color=yellow>\u5B66\u6821</color> \n (\u5B66\u751F+100)"
+      - '<color=yellow>Colegio</color>
+
+        (Estudiante +100)'
+      - "<color=yellow>\u5B78\u6821</color> \n (\u5B78\u751F +100)"
+      - "<color=yellow>\u5B66\u6821</color> (\u5B66\u751F +100)"
+      - "<color=yellow>\u0448\u043A\u043E\u043B\u0430</color> \n(\u0441\u0442\u0443\u0434\u0435\u043D\u0442
+        +100)"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BuyFacilityInfo9
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=yellow>\uBE4C\uB529</color> \n(\uC804\uBB38\uAC00 +100)"
+      - "<color=yellow>Building</color> \n(expert +100)"
+      - "<color=yellow>\u30D3\u30EB</color> \n (\u5C02\u9580\u5BB6+100)"
+      - '<color=yellow>edificio</color>
+
+        (perito +100)'
+      - "<color=yellow>\u5927\u5EC8</color> \n (\u5C08\u5BB6 +100)"
+      - "<color=yellow>\u5927\u53A6</color> (\u4E13\u5BB6 +100)"
+      - "<color=yellow>\u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u043E</color>
+        \n(\u044D\u043A\u0441\u043F\u0435\u0440\u0442 +100)"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Close
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB2EB\uAE30"
+      - Close
+      - "\u9589\u3058\u308B"
+      - Cerrar
+      - "\u95DC\u9589"
+      - "\u5173\u95ED"
+      - "\u0431\u043B\u0438\u0437\u043A\u043E"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: DayReward
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC77C\uC77C \uBCF4\uC0C1"
+      - Daily Reward
+      - "\u4E00\u65E5\u4FDD\u8A3C"
+      - Daily Reward
+      - "\u6BCF\u65E5\u88DC\u511F"
+      - "\u6BCF\u65E5\u8865\u507F"
+      - Daily Reward
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: DayRewardInfo
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB9E4\uC77C \uCD9C\uC11D\uD558\uC5EC \uBCF4\uC0C1\uBC1B\uC73C\uC138\uC694!\n12\uC2DC\uAC04
+        \uB9C8\uB2E4 \uCD08\uAE30\uD654 \uB429\uB2C8\uB2E4"
+      - 'Get in the game every day and get rewarded!
+
+        It is reset every 12 hours'
+      - "\u6BCE\u65E5\u51FA\u5E2D\u3057\u3066\u4FDD\u8A3C\u3092\u8CB0\u3063\u3066\u304F\u3060\u3055\u3044\r\n12\u6642\u9593\u6BCE\u306B\u521D\u671F\u5316\u306B\u306A\u308A\u307E\u3059"
+      - "<size=20>\xA1Entra en el juego todos los d\xEDas y consigue recompensas!\nSe
+        reinicia cada 12 horas.</size>"
+      - "\u8ACB\u6BCF\u5929\u51FA\u5E2D\u9818\u53D6\u88DC\u511F! \n \u6BCF12\u5C0F\u6642\u90FD\u521D\u59CB\u5316"
+      - "\u8BF7\u6BCF\u5929\u62A5\u5230\u9886\u53D6\u8865\u507F\n \u6BCF12\u4E2A\u5C0F\u65F6\u66F4\u65B0"
+      - "<size=20>\u0412\u043E\u0439\u0434\u0438\u0442\u0435 \u0432 \u0438\u0433\u0440\u0443
+        \u043A\u0430\u0436\u0434\u044B\u0439 \u0434\u0435\u043D\u044C \u0438\n\u043F\u043E\u043B\u0443\u0447\u0430\u0439\u0442\u0435
+        \u0432\u043E\u0437\u043D\u0430\u0433\u0440\u0430\u0436\u0434\u0435\u043D\u0438\u0435!\n\u0421\u0431\u0440\u0430\u0441\u044B\u0432\u0430\u0435\u0442\u0441\u044F
+        \u043A\u0430\u0436\u0434\u044B\u0435 12 \u0447\u0430\u0441\u043E\u0432</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: FacilityInfo1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD558\uC218\uAD6C"
+      - Sewer
+      - "\u4E0B\u6C34\u53E3"
+      - alcantarilla
+      - "\u4E0B\u6C34\u9053"
+      - "\u4E0B\u6C34\u9053"
+      - "\u041A\u0430\u043D\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: FacilityInfo10
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBCD1\uC6D0"
+      - Hospital
+      - "\u75C5\u9662"
+      - Hospital
+      - "\u91AB\u9662"
+      - "\u533B\u9662"
+      - "\u0431\u043E\u043B\u044C\u043D\u0438\u0446\u0430"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: FacilityInfo11
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD5EC\uC2A4 \uD074\uB7FD"
+      - Gym
+      - "\u30D5\u30A3\u30C3\u30C8\u30CD\u30B9\u30AF\u30E9\u30D6"
+      - Salud
+      - "\u5065\u8EAB\u623F"
+      - "\u5065\u8EAB\u623F"
+      - "\u0413\u0438\u043C\u043D\u0430\u0441\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439
+        \u0437\u0430\u043B"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: FacilityInfo12
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC5F0\uAD6C\uC18C"
+      - High-tech Lab
+      - "\u7814\u7A76\u6240"
+      - laboratorio de vanguardia
+      - "\u7814\u7A76\u6240"
+      - "\u7814\u7A76\u6240"
+      - "\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442 \u0432\u044B\u0441\u043E\u043A\u0438\u0445
+        \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0439"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: FacilityInfo2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC0B0\uACE8"
+      - The mountains
+      - "\u5C71\u5965"
+      - "monta\xF1osa"
+      - "\u5C71\u8C37"
+      - "\u5C71\u8C37"
+      - "\u0413\u043E\u0440\u043D\u044B\u0439 \u043B\u0435\u0441"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: FacilityInfo3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBE44\uBC00 \uCC3D\uACE0"
+      - Secret warehouse
+      - "\u79D8\u5BC6\u5009\u5EAB"
+      - cobertizo
+      - "\u7955\u5BC6\u5009\u5EAB"
+      - "\u79D8\u5BC6\u4ED3\u5E93"
+      - "\u0421\u0435\u043A\u0440\u0435\u0442\u043D\u044B\u0439 \u0441\u043A\u043B\u0430\u0434"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: FacilityInfo4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB9C8\uC744"
+      - Village
+      - "\u753A"
+      - pueblo
+      - "\u6751\u838A"
+      - "\u6751\u5E84"
+      - "\u0434\u0435\u0440\u0435\u0432\u043D\u044F"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: FacilityInfo5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCEA0\uD551\uCE74"
+      - Camping car
+      - "\u30AD\u30E3\u30F3\u30D4\u30F3\u30B0\u30AB\u30FC"
+      - caravana
+      - "\u623F\u8ECA"
+      - "\u623F\u8F66"
+      - "\u043A\u0435\u043C\u043F\u0438\u043D\u0433 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: FacilityInfo6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB18D\uC7A5"
+      - Farm
+      - "\u8FB2\u5834"
+      - granja
+      - "\u8FB2\u5834"
+      - "\u519C\u573A"
+      - "\u0444\u0435\u0440\u043C\u0430"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: FacilityInfo7
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC5F0\uAD6C\uC2E4"
+      - 'Laboratory '
+      - "\u7814\u7A76\u5BA4"
+      - laboratorio
+      - "\u7814\u7A76\u5BA4"
+      - "\u7814\u7A76\u5BA4"
+      - "\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u044F"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: FacilityInfo8
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD559\uAD50"
+      - School
+      - "\u5B66\u6821"
+      - Colegio
+      - "\u5B78\u6821"
+      - "\u5B66\u6821"
+      - "\u0448\u043A\u043E\u043B\u0430"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: FacilityInfo9
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBE4C\uB529"
+      - Building
+      - "\u30D3\u30EB"
+      - edificio
+      - "\u5927\u5EC8"
+      - "\u5927\u53A6"
+      - "\u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u043E"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: GoogleAchive
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC5C5\uC801"
+      - Achivement
+      - "\u696D\u7E3E"
+      - Logro
+      - "\u696D\u7E3E"
+      - "\u4E1A\u7EE9"
+      - "\u0414\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u0435"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: GoogleRank
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB7AD\uD0B9"
+      - Rank
+      - "\u30E9\u30F3\u30AD\u30F3\u30B0"
+      - Rango
+      - "\u6392\u4F4D"
+      - "\u6392\u4F4D"
+      - "\u0420\u0430\u043D\u0433"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Hire
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uACE0\uC6A9"
+      - HIRE
+      - "\u96C7\u7528"
+      - EMPLEAR
+      - "\u50F1\u50AD"
+      - "\u96C7\u4F63"
+      - "\u0417\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u044C"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Hire1
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=yellow>S.W.A.T</color> \n3\uCD08\uB9C8\uB2E4 \uB51C\uB7EC 1\uBA85
+        \uACE0\uC6A9"
+      - "<color=yellow>S.W.A.T</color> \nhire 1 dealer \nper 3 seconds"
+      - "<color=yellow>S.W.A.T</color> \n3\u79D2\u3054\u3068\u30C7\u30A3\u30FC\u30E9\u30FC1\u540D\u96C7\u7528"
+      - "<color=yellow>S.W.A.T</color>\ncontratar 1 distribuidor\r\npor 3 segundos"
+      - "<color=yellow>S.W.A.T</color> \n \u6BCF3\u79D2\u9418\u50F1\u7528\u4E00\u540D\u7D93\u92B7\u5546"
+      - "<color=yellow>S.W.A.T</color> \n \u6BCF3\u79D2\u96C7\u4F63\u4E00\u540D\u552E\u8D27\u5458"
+      - "<color=yellow>S.W.A.T</color> \n\u043D\u0430\u043D\u044F\u0442\u044C 1 \u0434\u0438\u043B\u0435\u0440\u0430\r\n\u0437\u0430
+        3 \u0441\u0435\u043A\u0443\u043D\u0434\u044B"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Hire2
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=yellow>\uAD70\uC778</color> \n\uB51C\uB7EC \uD310\uB9E4\uC911\uC9C0
+        \uAC00\uB2A5\n<size=16>(\uB51C\uB7EC \uACF5\uAC04 \uD130\uCE58\uC2DC)</size>"
+      - "<color=yellow>Soldier</color> \n<size=20>Dealers stop selling vaccines.</size>\n<size=18>(When
+        touching dealer space)</size>"
+      - "<color=yellow>\u8ECD\u4EBA</color>\r\n\u30C7\u30A3\u30FC\u30E9\u30FC\u8CA9\u58F2\u4E2D\u6B62\r\n<size=16>(\u30C7\u30A3\u30FC\u30E9\u30FC\u30B9\u30DA\u30FC\u30B9\u30BF\u30C3\u30C1\u6642)</size>"
+      - '<color=yellow>militar</color>
+
+        <size=20>Repartidor dejan de vender vacunas.</size>
+
+        <size=18>(Al tocar el espacio del repartidor)</size>'
+      - "<color=yellow>\u8ECD\u4EBA</color> \n\u7D93\u92B7\u5546\u53EF\u4EE5\u66AB\u505C\n<size=16>(\u89F8\u6478\u7D93\u92B7\u5546\u7A97\u53E3\u6642)</size>"
+      - "<color=yellow>\u519B\u4EBA</color> \n\u7D93\u92B7\u5546\u53EF\u4EE5\u66AB\u505C\n<size=16>(\u89F8\u6478\u7D93\u92B7\u5546\u7A97\u53E3\u6642)</size>"
+      - "<color=yellow>\u0421\u043E\u043B\u0434\u0430\u0442</color> \n<size=20>\u0414\u0438\u043B\u0435\u0440\u044B
+        \u043F\u0435\u0440\u0435\u0441\u0442\u0430\u044E\u0442 \u043F\u0440\u043E\u0434\u0430\u0432\u0430\u0442\u044C
+        \u0432\u0430\u043A\u0446\u0438\u043D\u044B.</size>\n<size=18>(\u041F\u0440\u0438
+        \u043A\u0430\u0441\u0430\u043D\u0438\u0438 \u0434\u0438\u043B\u0435\u0440\u0441\u043A\u043E\u0433\u043E
+        \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u0430)</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Hire3
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=yellow>\uC740\uD589\uC7A5</color> \n\uD22C\uC790 \uAC00\uB2A5"
+      - "<color=yellow>Bank manager</color> \nInvestment possible"
+      - "<color=yellow>\u982D\u53D6</color> \n \u6295\u8CC7\u53EF\u80FD"
+      - "<color=yellow>Gerente de banco</color>\nInversi\xF3n posible"
+      - "<color=yellow>\u884C\u9577</color> \n \u53EF\u6295\u8CC7"
+      - "<color=yellow>\u884C\u957F</color> \u53EF\u6295\u8D44"
+      - "<color=yellow>\u0423\u043F\u0440\u0430\u0432\u043B\u044F\u044E\u0449\u0438\u0439
+        \u0431\u0430\u043D\u043A\u043E\u043C</color> \n\u0418\u043D\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438
+        \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u044B"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Hire4
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=yellow>\uC288\uD37C \uD654\uD559\uC790</color> \n\uBC31\uC2E0 \uC21C\uB3C4
+        \uC0C1\uC2B9"
+      - "<color=yellow>Super chemist</color> \nRising vaccine purity"
+      - "<color=yellow>\u30B9\u30FC\u30D1\u30FC\u79D1\u5B66\u8005</color> \n \u30EF\u30AF\u30C1\u30F3\u7D14\u5EA6\u4E0A\u6607"
+      - '<color=yellow>Super quimico</color>
+
+        Creciente pureza de la vacuna'
+      - "<color=yellow>\u8D85\u7D1A\u5316\u5B78\u5BB6</color> \n \u75AB\u82D7\u7D14\u5EA6\u4E0A\u5347"
+      - "<color=yellow>\u8D85\u7EA7\u5316\u5B66\u5BB6</color> \u75AB\u82D7\u7EAF\u5EA6\u4E0A\u5347"
+      - "<color=yellow>\u0421\u0443\u043F\u0435\u0440 \u0445\u0438\u043C\u0438\u043A</color>
+        \n\u041F\u043E\u0432\u044B\u0448\u0435\u043D\u043D\u0430\u044F \u0447\u0438\u0441\u0442\u043E\u0442\u0430
+        \u0432\u0430\u043A\u0446\u0438\u043D\u044B"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Hire5
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=red>\uACE0\uB3D4 \uB80C\uC9C0</color> \n\uC2DC\uC124 \uC778\uAD6C
+        \uC804\uCCB4 \uAD6C\uB9E4"
+      - "<color=red>Gomeom range</color> \nFacility Population Total Purchase"
+      - "<color=yellow>\u30B4\u30FC\u30C9\u30F3 \u30E9\u30E0\u30BC\u30A4</color> \n\u65BD\u8A2D\u4EBA\u53E3\u5168\u4F53\u8CFC\u8CB7"
+      - "<color=red>Gomeom range</color> \nCompra total de la poblaci\xF3n de la instalaci\xF3n"
+      - "<color=red>Gomeom range</color> \n \u8A2D\u65BD\u4EBA\u53E3\u7E3D\u8CFC\u8CB7\u91CF"
+      - "<color=red>Gomeom range</color> \n \u8D2D\u4E70\u5168\u90E8\u8BBE\u65BD\u4EBA\u53E3"
+      - "<color=red>Gomeom range</color> \nFacility Population Total Purchase"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: IapSuccess
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAD6C\uB9E4\uC644\uB8CC"
+      - Purchase complete
+      - "\u8CFC\u8CB7\u5B8C\u4E86"
+      - Compra perfecta
+      - "\u8CFC\u8CB7\u5B8C\u7562"
+      - "\u8D2D\u4E70\u5B8C\u6BD5"
+      - "\u041F\u043E\u043A\u0443\u043F\u043A\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043D\u0430"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: InappInfo1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCD9C\uC11D\uBCF4\uC0C1\uC744 <color=red>3\uBC30\uB85C</color> \uC5BB\uC2B5\uB2C8\uB2E4"
+      - Attendance reward is <color=red>tripled</color>
+      - "\u51FA\u5E2D\u4FDD\u8A3C\u3092<color=red>3\u500D\u306B</color>\u5F97\u308B"
+      - se <color=red>triplican</color> las recompensas
+      - "\u7372\u5F97<color=red>3\u500D</color>\u5831\u5C0E\u88DC\u511F"
+      - "\u83B7\u5F97 <color=red>3\u500D</color> \u62A5\u5230\u8865\u507F"
+      - "\u041A\u043E\u043C\u043F\u0435\u043D\u0441\u0430\u0446\u0438\u044F \u043F\u043E\u0441\u0435\u0449\u0430\u0435\u043C\u043E\u0441\u0442\u0438\n<color=red>\u0432
+        \u0442\u0440\u0438 \u0440\u0430\u0437\u0430</color>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: InappInfo2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD654\uBA74\uC744 \uAE38\uAC8C \uB204\uB974\uACE0 \uC788\uC73C\uBA74\n<color=red>\uC790\uB3D9\uC73C\uB85C</color>
+        \uD130\uCE58\uD569\uB2C8\uB2E4"
+      - 'Press and hold the screen
+
+        Touch <color=red>automatically</color>'
+      - "\u753B\u9762\u3092\u9577\u304F\u62BC\u3059\u3068\n<color=red>\u81EA\u52D5\u7684\u306B</color>\u30BF\u30C3\u30C1\u3059\u308B"
+      - "Mantenga pulsada la pantalla.\nToca <color=red>autom\xE1ticamente</color>"
+      - "\u5982\u679C\u6309\u7740\u5C4F\u5E55\u7684\u8A71\n <color=red>\u81EA\u52D5</color>\u9EDE\u64CA"
+      - "\u5982\u679C\u6309\u4F4F\u5C4F\u5E55\u7684\u8BDD <color=red>\u81EA\u52A8</color>
+        \u70B9\u51FB"
+      - "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u0438 \u0443\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0439\u0442\u0435
+        \u044D\u043A\u0440\u0430\u043D\n\u043D\u0430\u0436\u043C\u0438\u0442\u0435
+        <color=red>\u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0438</color>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: InappInfo3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC8FC\uC0AC\uAE30 50\uAC1C\n\uBC31\uC2E0,\uB3C8 10\uBC30 / \uC9C0\uC18D\uC2DC\uAC04
+        10\uCD08"
+      - 'Syringe 50
+
+        Vaccine, Money tenfold
+
+        Duration of 10 sec'
+      - "\u6CE8\u5C04\u566850\u500B\n \u30EF\u30AF\u30C1\u30F3\u3001\u304A\u91D110\u500D/\u6301\u7D9A\u6642\u959310\u79D2"
+      - "jeringa 50\n(vacunas, dinero) d\xE9cada\n10 segundos"
+      - "50\u500B\u6CE8\u5C04\u5668\n \u75AB\u82D7,10\u500D\u9322/\u6301\u7E8C\u6642\u959310\u79D2"
+      - "\u6CE8\u5C04\u5668 50\u4E2A \u75AB\u82D7,10\u500D\u91D1\u94B1 /\u6301\u7EED10\u79D2"
+      - "\u0428\u043F\u0440\u0438\u0446 50\n\u0412\u0430\u043A\u0446\u0438\u043D\u0430,
+        \u0414\u0435\u043D\u044C\u0433\u0438 \u0432\u0434\u0435\u0441\u044F\u0442\u0435\u0440\u043E\n\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C
+        10 \u0441\u0435\u043A\u0443\u043D\u0434"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: InappInfo4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC8FC\uC0AC\uAE30 50\uAC1C\n\uBC31\uC2E0,\uB3C8 100\uBC30 / \uC9C0\uC18D\uC2DC\uAC04
+        10\uCD08"
+      - "Syringe 50\nVaccine, Money hundredfold \nDuration of 10 sec"
+      - "\u6CE8\u5C04\u566850\u500B\n \u30EF\u30AF\u30C1\u30F3\u3001\u304A\u91D1100\u500D/\u6301\u7D9A\u6642\u959310\u79D2"
+      - "jeringa 50\n(vacunas, dinero) centuplicaci\xF3n\n10 segundos"
+      - "50\u500B\u6CE8\u5C04\u5668\n \u75AB\u82D7,100\u500D\u7684\u9322/\u6301\u7E8C\u6642\u959310\u79D2"
+      - "\u6CE8\u5C04\u5668 50\u4E2A \u75AB\u82D7,100\u500D\u91D1\u94B1 /\u6301\u7EED10\u79D2"
+      - "\u0428\u043F\u0440\u0438\u0446 50\n\u0412\u0430\u043A\u0446\u0438\u043D\u0430,
+        \u0414\u0435\u043D\u044C\u0433\u0438 \u0441\u0442\u043E\u043A\u0440\u0430\u0442\u043D\u044B\u0439
+        \n\u0414\u043B\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C
+        10 \u0441\u0435\u043A\u0443\u043D\u0434"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: InappTitle1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCD9C\uC11D\uBCF4\uC0C1\n3\uBC30"
+      - 'Attendance reward
+
+        x3'
+      - "\u51FA\u5E2D\u4FDD\u8A3C\n 3\u500D"
+      - "Compensaci\xF3n diaria\r\nx3"
+      - "3\u500D\u5831\u5230\u88DC\u511F"
+      - "3\u500D\u62A5\u5230\u8865\u507F"
+      - "<size=20>\u041A\u043E\u043C\u043F\u0435\u043D\u0441\u0430\u0446\u0438\u044F
+        \u043F\u043E\u0441\u0435\u0449\u0430\u0435\u043C\u043E\u0441\u0442\u0438\nx3</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: InappTitle2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC790\uB3D9\n\uD130\uCE58"
+      - 'Auto
+
+        Touch'
+      - "\u81EA\u52D5\n \u30BF\u30C3\u30C1"
+      - 'automatismo
+
+        toque'
+      - "\u81EA\u52D5 \n \u9EDE\u64CA"
+      - "\u81EA\u52A8\u70B9\u51FB"
+      - "\u0410\u0432\u0442\u043E\n\u0449\u0435\u043B\u0447\u043E\u043A"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: InappTitle3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC8FC\uC0AC\uAE30\n50\uAC1C"
+      - 'Syringe
+
+        50'
+      - "\u6CE8\u5C04\u5668\n 50\u500B"
+      - 'jeringa
+
+        50'
+      - "\u6CE8\u5C04\u5668 \n 50\u500B"
+      - "\u6CE8\u5C04\u566850\u4E2A"
+      - "\u0428\u043F\u0440\u0438\u0446\r\n50"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: InappTitle4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC8FC\uC0AC\uAE30\n50\uAC1C"
+      - 'Syringe
+
+        50'
+      - "\u6CE8\u5C04\u5668\n 50\u500B"
+      - 'jeringa
+
+        50'
+      - "\u6CE8\u5C04\u5668 \n 50\u500B"
+      - "\u6CE8\u5C04\u566850\u4E2A"
+      - "\u0428\u043F\u0440\u0438\u0446\r\n50"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: LoadConfirm
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBD88\uB7EC\uC624\uAE30 \uC131\uACF5"
+      - Load
+      - "\u547C\u3073\u51FA\u3057\u6210\u529F"
+      - Load
+      - Load
+      - "\u8BFB\u53D6"
+      - Load
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: LoadInfo
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAC8C\uC784 \uBD88\uB7EC\uC624\uAE30 \uC131\uACF5!!\n\uAC8C\uC784\uC744
+        \uC7AC \uC2DC\uC791 \uD569\uB2C8\uB2E4"
+      - 'Load Success!!
+
+        Restart the game.'
+      - "\u30B2\u30FC\u30E0\u547C\u3073\u51FA\u3057\u6210\u529F!!\n \u30B2\u30FC\u30E0\u3092\u518D\u30B9\u30BF\u30FC\u30C8\u3057\u307E\u3059\u3002"
+      - 'Load Success!!
+
+        Comienza de nuevo el juego.'
+      - "Load Success!!\n \u91CD\u65B0\u958B\u59CB\u73A9\u904A\u6232\u3002"
+      - "\u8BFB\u53D6\u6E38\u620F\u6210\u529F\n \u91CD\u65B0\u5F00\u59CB\u6E38\u620F"
+      - "Load Success!!\n\u041D\u0430\u0447\u0430\u0442\u044C \u0438\u0433\u0440\u0443
+        \u0437\u0430\u043D\u043E\u0432\u043E."
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: LoadingText
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBD88\uB7EC\uC624\uAE30 \uC911......."
+      - Loading......
+      - "\u547C\u3073\u51FA\u3057\u4E2D"
+      - Loading.....
+      - Loading.....
+      - "\u8BFB\u53D6\u4E2D\u3002\u3002\u3002\u3002\u3002\u3002"
+      - Loading.....
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: NotificationText1
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=#32D842>\uB3C8</color>\uC774 \uBD80\uC871 \uD569\uB2C8\uB2E4"
+      - Not enough <color=#32D842>money</color>
+      - "<color=#32D842\u304A\u91D1</color>\u304C\u8DB3\u308A\u306A\u3044\u3067\u3059\u3002"
+      - <color=#32D842>Dinero</color> insuficiente
+      - "<color=#32D842>\u9322</color>\u4E0D\u5920"
+      - "<color=#32D842>\u91D1\u94B1</color>\u4E0D\u8DB3"
+      - "\u043D\u0435\u0434\u043E\u0441\u0442\u0430\u0442\u043E\u0447\u043D\u043E
+        <color=#32D842>\u0414\u0435\u043D\u044C\u0433\u0438</color>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: NotificationText2
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=#23ABEA>\uBC31\uC2E0</color>\uC774 \uBD80\uC871 \uD569\uB2C8\uB2E4"
+      - Not enough <color=#23ABEA>vaccine</color>
+      - "<color=#23ABEA>\u30EF\u30AF\u30C1\u30F3</color>\u304C\u8DB3\u308A\u306A\u3044\u3067\u3059\u3002"
+      - <color=#23ABEA>Vacuna</color> insuficiente
+      - "<color=#23ABEA>\u75AB\u82D7</color>\u4E0D\u8DB3"
+      - "<color=#23ABEA>\u75AB\u82D7</color>\u4E0D\u8DB3"
+      - "\u043D\u0435\u0434\u043E\u0441\u0442\u0430\u0442\u043E\u0447\u043D\u043E
+        <color=#23ABEA>\u0432\u0430\u043A\u0446\u0438\u043D\u0430</color>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: NotificationText3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC5C5\uADF8\uB808\uC774\uB4DC <color=#E40E10>\uC2E4\uD328</color>"
+      - Upgrade <color=#E40E10>fail</color>
+      - "\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9 <color=#E40E10>\u5931\u6557</color>"
+      - "<color=#E40E10>fallo</color> de actualizaci\xF3n"
+      - "\u5347\u7D1A<color=#E40E10>\u5931\u6557</color>"
+      - "\u5347\u7EA7 <color=#E40E10>\u5931\u8D25</color>"
+      - "\u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435 <color=#E40E10>\u043D\u0435
+        \u0443\u0434\u0430\u043B\u043E\u0441\u044C</color>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: NotificationText4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC5C5\uADF8\uB808\uC774\uB4DC <color=#DADA18>\uC131\uACF5!!</color>"
+      - Upgrade <color=#DADA18>success</color>
+      - "\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9 <color=#DADA18>\u6210\u529F!!</color>"
+      - " <color=#DADA18>\xC9xito</color> de actualizaci\xF3n"
+      - "\u5347\u7D1A<color=#DADA18>\u6210\u529F</color>"
+      - "\u5347\u7EA7 <color=#DADA18>\u6210\u529F!!</color>"
+      - "\u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435 <color=#DADA18>\u0443\u0441\u043F\u0435\u0448\u043D\u043E</color>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: NotificationText5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBC31\uC2E0\uC791\uC5C5 \uACF5\uAC04\uC740 <color=#DADA18>\uCD5C\uB300 4\uAC1C</color>
+        \uAE4C\uC9C0 \uAC00\uB2A5 \uD569\uB2C8\uB2E4\n\uACF5\uAC04\uC744 <color=#E40E10>\uD310\uB9E4</color>
+        \uD6C4 \uAD6C\uB9E4 \uD558\uC138\uC694"
+      - '4 vaccine workspaces are available.
+
+        Purchase space after <color=#E40E10>selling</color>'
+      - "\u30EF\u30AF\u30C1\u30F3\u4F5C\u696D\u7A7A\u9593\u306F<color=#DADA18>\u6700\u59274\u500B\u307E\u3067</color>\u53EF\u80FD\u3067\u3059\u3002\n
+        \u7A7A\u9593\u3092<color=#E40E10>\u8CA9\u58F2</color> \u5F8C\u8CB7\u3063\u3066\u304F\u3060\u3055\u3044\u3002"
+      - "4 espacios de trabajo de vacunas est\xE1n disponibles.\r\nCompra espacio
+        despu\xE9s de vender"
+      - "\u75AB\u82D7\u4F5C\u696D\u7A7A\u9593\u6700\u591A\u53EF\u9054\u52304\u500B\n
+        \u8ACB<color=#E40E10>\u552E\u5F8C</color>\u8CFC\u8CB7\u7A7A\u9593"
+      - "\u75AB\u82D7\u5236\u9020\u7A7A\u95F4<color=#DADA18>\u6700\u591A4\u4E2A</color>
+        \ \u7A7A\u95F4 <color=#E40E10>\u5356</color> \u540E\u518D\u8D2D\u4E70"
+      - "\u041C\u0430\u043A\u0441\u0438\u043C\u0443\u043C \u0447\u0435\u0442\u044B\u0440\u0435
+        \u0440\u0430\u0431\u043E\u0447\u0438\u0445 \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u0430
+        \u0432\u0430\u043A\u0446\u0438\u043D\u044B\r\n\u041F\u043E\u043A\u0443\u043F\u043A\u0430
+        \u043C\u0435\u0441\u0442\u0430 \u043F\u043E\u0441\u043B\u0435 \u043F\u0440\u043E\u0434\u0430\u0436\u0438"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: NotificationText6
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=#DADA18>\uC8FC\uC0AC\uAE30</color>\uAC00 \uBD80\uC871 \uD569\uB2C8\uB2E4"
+      - Not enough <color=#DADA18>syringe</color>
+      - "<color=#DADA18>\u6CE8\u5C04\u5668</color>\u304C\u8DB3\u308A\u306A\u3044\u3067\u3059"
+      - <color=#DADA18>Jeringa</color> insuficiente
+      - "<color=#DADA18>\u6CE8\u5C04\u5668</color>\u4E0D\u8DB3"
+      - "<color=#DADA18>\u6CE8\u5C04\u5668</color>\u4E0D\u8DB3"
+      - "\u041D\u0435\u0434\u043E\u0441\u0442\u0430\u0442\u043E\u0447\u043D\u043E
+        <color=#DADA18>\u0448\u043F\u0440\u0438\u0446\u0430</color>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: NotificationText7
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC2DC\uC124\uC774 <color=#32D842>\uAC00\uB4DD</color> \uCC3C\uC2B5\uB2C8\uB2E4"
+      - Facility is <color=#32D842>full</color>
+      - "\u65BD\u8A2D\u304C<color=#32D842>\u57CB\u307E\u308A</color>\u307E\u3057\u305F\u3002"
+      - "<color=#32D842>est\xE1 lleno</color> de instalaciones."
+      - "\u8A2D\u65BD\u6EFF\u4E86"
+      - "\u8BBE\u65BD <color=#32D842>\u5DF2\u6EE1</color>"
+      - Facility is <color=#32D842>full</color>
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: NotificationText8
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC2DC\uC124\uC744 <color=#E40E10>\uAD6C\uB9E4</color> \uD558\uC138\uC694"
+      - <color=#E40E10>Purchase</color> facilities
+      - "\u65BD\u8A2D\u3092<color=#E40E10>\u8CB7\u3063\u3066</color>\u304F\u3060\u3055\u3044\u3002"
+      - <color=#E40E10>Compra</color> instalaciones
+      - "\u8ACB\u8CFC\u8CB7\u8A2D\u65BD"
+      - "\u8BF7 <color=#E40E10>\u8D2D\u4E70</color>\u8BBE\u65BD"
+      - <color=#E40E10>Purchase</color> facilities
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: NotificationText9
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=#32D842>\uAD6C\uB9E4 </color> \uC131\uACF5"
+      - Purchase Success
+      - "<color=#32D842>\u8CFC\u8CB7</color>\u6210\u529F"
+      - "\xC9xito de compra"
+      - "\u8CFC\u8CB7\u6210\u529F"
+      - "<color=#32D842>\u8D2D\u4E70 </color> \u6210\u529F"
+      - "\u0423\u0441\u043F\u0435\u0445 \u043F\u043E\u043A\u0443\u043F\u043A\u0438"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Quit
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC885\uB8CC"
+      - Quit
+      - "\u7D42\u4E86"
+      - Quat
+      - "\u7D50\u675F"
+      - "\u7ED3\u675F"
+      - "<size=25>\u041A\u043E\u043D\u0435\u0446 \u0438\u0433\u0440\u044B</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: QuitInfo
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAC8C\uC784\uC744 \uC885\uB8CC \uD558\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?"
+      - Are you sure you want to quit the game?
+      - "\u30B2\u30FC\u30E0\u3092\u7D42\u4E86\u3057\u307E\u3059\u304B\uFF1F"
+      - "\xBFRealmente quieres dejar el juego?"
+      - "\u78BA\u5B9A\u8981\u7D50\u675F\u904A\u6232\u55CE?"
+      - "\u786E\u5B9A\u8981\u7ED3\u675F\u6E38\u620F\u5417\uFF1F"
+      - "\u0412\u044B \u0443\u0432\u0435\u0440\u0435\u043D\u044B, \u0447\u0442\u043E
+        \u0445\u043E\u0442\u0438\u0442\u0435 \u0432\u044B\u0439\u0442\u0438 \u0438\u0437
+        \u0438\u0433\u0440\u044B?"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: QuitTitle
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAC8C\uC784 \uC885\uB8CC"
+      - Quit
+      - "\u30B2\u30FC\u30E0\u7D42\u4E86"
+      - Quat
+      - "\u904A\u6232\u7D50\u675F"
+      - "\u6E38\u620F\u7ED3\u675F"
+      - "\u041A\u043E\u043D\u0435\u0446 \u0438\u0433\u0440\u044B"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Review
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD3C9\uAC00\uD558\uAE30"
+      - Evaluate
+      - "\u8A55\u4FA1\u3059\u308B"
+      - Evaluar
+      - "\u8A55\u50F9"
+      - "\u8BC4\u4EF7"
+      - "\u043E\u0446\u0435\u043D\u0438\u0432\u0430\u0442\u044C"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: SaveConfirm
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC800\uC7A5 \uC131\uACF5"
+      - Save
+      - "\u4FDD\u5B58\u6210\u529F"
+      - Save
+      - "\u5B58\u6A94\u6210\u529F"
+      - "\u5B58\u6863\u6210\u529F"
+      - Save
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: SaveInfo
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD074\uB77C\uC6B0\uB4DC \uC800\uC7A5 \uC131\uACF5!!"
+      - Cloud Save!!
+      - "\u30AF\u30E9\u30A6\u30C9\u4FDD\u5B58\u6210\u529F!!"
+      - Cloud Save!!
+      - "\u670D\u52D9\u5668\u5B58\u6A94\u6210\u529F"
+      - "\u670D\u52A1\u5668\u5B58\u6863\u6210\u529F"
+      - Cloud Save!!
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: SavingText
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC800\uC7A5 \uC911........"
+      - Save......
+      - "\u4FDD\u5B58\u4E2D...."
+      - Save.....
+      - "\u5B58\u6A94\u4E2D\u3002 \u3002 \u3002 \u3002 \u3002"
+      - "\u5B58\u6863\u4E2D\u3002\u3002\u3002\u3002\u3002\u3002"
+      - Save.....
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Sec
+      TermType: 0
+      Description: 
+      Languages:
+      - "10 \uCD08"
+      - 10 sec
+      - "10\u79D2"
+      - 10 sec
+      - "10 \u79D2"
+      - "10\u79D2"
+      - "<size=16>10 \u0441\u0435\u043A\u0443\u043D\u0434</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Sell
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD310\uB9E4"
+      - Sale
+      - "\u8CA9\u58F2"
+      - venta
+      - "\u8CE3"
+      - "\u5356"
+      - "\u041F\u0440\u043E\u0434\u0430\u0436\u0430"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: SellTitle
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC2DC\uC124 \uD310\uB9E4"
+      - Facility sale
+      - "\u65BD\u8A2D\u8CA9\u58F2"
+      - Venta de instalaciones
+      - "\u8A2D\u65BD\u92B7\u552E"
+      - "\u8BBE\u65BD\u9500\u552E"
+      - "\u041F\u0440\u043E\u0434\u0430\u0436\u0430 \u043E\u0431\u044A\u0435\u043A\u0442\u043E\u0432"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Shop
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC0C1\uC810"
+      - SHOP
+      - "\u5E97"
+      - SHOP
+      - "\u5546\u5E97"
+      - "\u5546\u5E97"
+      - "\u041C\u0430\u0433\u0430\u0437\u0438\u043D"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Status
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC0C1\uD0DC"
+      - STATUS
+      - "\u72B6\u614B"
+      - "Situaci\xF3n"
+      - "\u72C0\u614B"
+      - "\u72B6\u6001"
+      - "\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: StatusSellInfo
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC2DC\uC124\uC744 <color=red>\uD310\uB9E4</color> \uD558\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?"
+      - Would you like to <color=red>sell</color> the facility?
+      - "\u65BD\u8A2D\u3092<color=red>\u8CA9\u58F2</color>\u3057\u307E\u3059\u304B\uFF1F"
+      - "\xBFQuieres <color=red>vender</color> las instalaciones?"
+      - "\u78BA\u5B9A<color=red>\u8CE3\u6389</color> \u8A2D\u65BD\u55CE\uFF1F"
+      - "\u786E\u5B9A<color=red>\u5356\u6389</color> \u8BBE\u65BD\u5417\uFF1F"
+      - "\u0425\u043E\u0442\u0438\u0442\u0435 \u043F\u0440\u043E\u0434\u0430\u0442\u044C
+        \u043E\u0431\u044A\u0435\u043A\u0442?"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: TimeReward
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBBF8\uC811\uC18D \uBCF4\uC0C1"
+      - Idle Reward
+      - "\u672A\u63A5\u7D9A\u4FDD\u8A3C"
+      - Idle Reward
+      - "\u672A\u5831\u5230\u88DC\u511F"
+      - "\u672A\u62A5\u5230\u8865\u507F"
+      - Idle Reward
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Tutorial1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBC31\uC2E0 \uC544\uC774\uCF58\uC744 \uD130\uCE58\uD558\uC5EC\n\uBC31\uC2E0\uC744
+        \uB9CC\uB4E4 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+      - 'Touch the Vaccine icon
+
+        You can make a vaccine.'
+      - "\u30EF\u30AF\u30C1\u30F3\u30A2\u30A4\u30B3\u30F3\u3092\u30BF\u30C3\u30C1\u3059\u308B\u3068\n
+        \u30EF\u30AF\u30C1\u30F3\u3092\u4F5C\u308C\u307E\u3059\u3002"
+      - 'Toque el icono de la vacuna
+
+        Puedes hacer una vacuna.'
+      - "\u9EDE\u64CA\u75AB\u82D7\u5716\u6A19\n \u53EF\u88FD\u4F5C\u75AB\u82D7"
+      - "\u70B9\u51FB\u75AB\u82D7\u56FE\u6807 \u53EF\u5236\u4F5C\u75AB\u82D7"
+      - "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u0437\u043D\u0430\u0447\u043E\u043A
+        \u0432\u0430\u043A\u0446\u0438\u043D\u044B\r\n\u0412\u044B \u043C\u043E\u0436\u0435\u0442\u0435
+        \u0441\u0434\u0435\u043B\u0430\u0442\u044C \u0432\u0430\u043A\u0446\u0438\u043D\u0443."
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Tutorial2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC0C1\uB2E8 \uC544\uBB34\uACF3\uC774\uB098 \uD130\uCE58\uD558\uBA74\n\uBC31\uC2E0\uC744
+        \uC0DD\uC0B0\uD569\uB2C8\uB2E4."
+      - "Touch anywhere at the top.\r\nThe vaccine is produced."
+      - "\u4E0A\u6BB5\u306E\u3069\u3053\u3092\u30BF\u30C3\u30C1\u3057\u3066\u3082\n
+        \u30EF\u30AF\u30C1\u30F3\u3092\u751F\u7523\u51FA\u6765\u307E\u3059\u3002"
+      - '<size=30>Toque en cualquier lugar en la parte superior.
+
+        Se produce la vacuna.</size>'
+      - "\u89F8\u6478\u9802\u90E8\u7684\u4EFB\u4F55\u4F4D\u7F6E\u3002 \u53EF\u751F\u7522\u75AB\u82D7"
+      - "\u70B9\u51FB\u9876\u90E8\u4EFB\u4F55\u4F4D\u7F6E \u53EF\u751F\u4EA7\u75AB\u82D7"
+      - "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u0432 \u043B\u044E\u0431\u043E\u043C
+        \u043C\u0435\u0441\u0442\u0435 \u043D\u0430\u0432\u0435\u0440\u0445\u0443.\r\n\u0412\u0430\u043A\u0446\u0438\u043D\u0430
+        \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0441\u044F."
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Tutorial3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB3C8 \uC544\uC774\uCF58\uC744 \uD130\uCE58\uD558\uC5EC\n\uBC31\uC2E0\uC744
+        \uD310\uB9E4 \uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+      - 'Touch the money icon
+
+        You can sell vaccines.'
+      - "\u304A\u91D1\u306E\u30A2\u30A4\u30B3\u30F3\u3092\u30BF\u30C3\u30C1\u3059\u308B\u3068\n
+        \u30EF\u30AF\u30C1\u30F3\u3092\u8CA9\u58F2\u51FA\u6765\u307E\u3059\u3002"
+      - "Toca el icono de dinero.\r\nPuedes vender vacunas."
+      - "\u9EDE\u64CA\u91D1\u9322\u5716\u6A19\n \u53EF\u92B7\u552E\u75AB\u82D7"
+      - "\u70B9\u51FB\u91D1\u94B1\u56FE\u6807 \u53EF\u9500\u552E\u75AB\u82D7"
+      - "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u043D\u0430 \u0437\u043D\u0430\u0447\u043E\u043A
+        \u0434\u0435\u043D\u0435\u0433\r\n\u0412\u044B \u043C\u043E\u0436\u0435\u0442\u0435
+        \u043F\u0440\u043E\u0434\u0430\u0432\u0430\u0442\u044C \u0432\u0430\u043A\u0446\u0438\u043D\u044B."
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Tutorial4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC0C1\uB2E8 \uC544\uBB34\uACF3\uC774\uB098 \uD130\uCE58\uD558\uBA74\n\uBC31\uC2E0\uC744
+        \uD310\uB9E4\uD558\uC5EC \uB3C8\uC744 \uD68D\uB4DD \uD569\uB2C8\uB2E4."
+      - "Touch anywhere at the top.\r\nEarn money by selling vaccines."
+      - "\u4E0A\u6BB5\u306E\u3069\u3053\u3092\u30BF\u30C3\u30C1\u3057\u3066\u3082\n
+        \u30EF\u30AF\u30C1\u30F3\u3092\u8CA9\u58F2\u3057\u3001\u304A\u91D1\u3092\u7372\u5F97\u51FA\u6765\u307E\u3059\u3002"
+      - '<size=30>Toque en cualquier lugar en la parte superior.
+
+        Gana dinero vendiendo vacunas.</size>'
+      - "\u9EDE\u64CA\u9802\u90E8\u4EFB\u4F55\u4F4D\u7F6E\n \u53EF\u92B7\u552E\u75AB\u82D7\u7372\u5F97\u91D1\u9322"
+      - "\u70B9\u51FB\u4EFB\u4F55\u4E0A\u7AEF \u53EF\u9500\u552E\u75AB\u82D7\u83B7\u5F97\u91D1\u94B1"
+      - "<size=25>\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u0432 \u043B\u044E\u0431\u043E\u043C
+        \u043C\u0435\u0441\u0442\u0435 \u043D\u0430\u0432\u0435\u0440\u0445\u0443.\n\u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044B\u0432\u0430\u0439\u0442\u0435
+        \u0434\u0435\u043D\u044C\u0433\u0438, \u043F\u0440\u043E\u0434\u0430\u0432\u0430\u044F
+        \u0432\u0430\u043A\u0446\u0438\u043D\u044B.</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Tutorial5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB51C\uB7EC\uB97C \uACE0\uC6A9\uD558\uC5EC\n\uC790\uB3D9\uC73C\uB85C \uBC31\uC2E0\uC744
+        \uD310\uB9E4 \uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+      - 'By hiring a dealer
+
+        You can sell vaccines automatically.'
+      - "\u30C7\u30A3\u30FC\u30E9\u30FC\u3092\u96C7\u3046\u3068\n \u81EA\u52D5\u7684\u306B\u30EF\u30AF\u30C1\u30F3\u3092\u8CA9\u58F2\u51FA\u6765\u307E\u3059\u3002"
+      - "Al contratar a un distribuidor\r\nPuedes vender vacunas autom\xE1ticamente."
+      - "\u50F1\u50AD\u552E\u8CA8\u54E1\u53EF\u4EE5\u81EA\u52D5\u92B7\u552E\u75AB\u82D7"
+      - "\u96C7\u4F63\u552E\u8D27\u5458\u53EF\u4EE5\u81EA\u52A8\u9500\u552E\u75AB\u82D7"
+      - "<size=25>\u041D\u0430\u0439\u043C \u0434\u0438\u043B\u0435\u0440\u0430\n\u0412\u044B
+        \u043C\u043E\u0436\u0435\u0442\u0435 \u043F\u0440\u043E\u0434\u0430\u0432\u0430\u0442\u044C
+        \u0432\u0430\u043A\u0446\u0438\u043D\u044B \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0438.</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Tutorial6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC2DC\uC124\uC744 \uAD6C\uB9E4\uD558\uACE0 \uC0AC\uB78C\uC744 \uACE0\uC6A9\uD574\n\uC790\uB3D9\uC73C\uB85C
+        \uBC31\uC2E0\uC744 \uC0DD\uC0B0 \uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+      - 'Buy facilities and hire people
+
+        The vaccine can be produced automatically.'
+      - "\u65BD\u8A2D\u3092\u8CB7\u3063\u3066\u3001\u4EBA\u3092\u96C7\u3046\u3068\n
+        \u81EA\u52D5\u7684\u306B\u30EF\u30AF\u30C1\u30F3\u3092\u751F\u7523\u51FA\u6765\u307E\u3059\u3002"
+      - "<size=30>Comprar instalaciones y contratar personas.\nLa vacuna se puede
+        producir autom\xE1ticamente.</size>"
+      - "\u8CFC\u8CB7\u8A2D\u65BD\u8058\u8ACB\u552E\u8CA8\u54E1\u53EF\u4EE5\u81EA\u52D5\u751F\u7522\u75AB\u82D7"
+      - "\u8D2D\u4E70\u8BBE\u65BD\u8058\u8BF7\u552E\u8D27\u5458\u53EF\u4EE5\u81EA\u52A8\u751F\u4EA7\u75AB\u82D7"
+      - "<size=25>\u041F\u043E\u043A\u0443\u043F\u0430\u0439\u0442\u0435 \u043E\u0431\u044A\u0435\u043A\u0442\u044B
+        \u0438 \u043D\u0430\u043D\u0438\u043C\u0430\u0439\u0442\u0435 \u043B\u044E\u0434\u0435\u0439\n\u0412\u0430\u043A\u0446\u0438\u043D\u0430
+        \u043C\u043E\u0436\u0435\u0442 \u0431\u044B\u0442\u044C \u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0430
+        \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0438.</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Tutorial7
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBC31\uC2E0\uC758 \uCE58\uB8CC\uC728\uC744 \uB098\uD0C0 \uB0C5\uB2C8\uB2E4.\n\uCE58\uB8CC\uC728\uC774
+        \uB192\uC744 \uC218\uB85D \uBE44\uC2FC \uAC00\uACA9\uC5D0 \uD310\uB9E4 \uB429\uB2C8\uB2E4."
+      - 'Indicates the cure rate of the vaccine.
+
+        The higher the cure rate, the higher the price.'
+      - "\u30EF\u30AF\u30C1\u30F3\u306E\u6CBB\u7642\u7387\u3092\u8868\u3057\u307E\u3059\n
+        \u6CBB\u7642\u7387\u304C\u9AD8\u3044\u7A0B\u3001\u9AD8\u3044\u5024\u6BB5\u3067\u8CA9\u58F2\u3067\u304D\u307E\u3059\u3002"
+      - "Indica la tasa de curaci\xF3n de la vacuna.\nCuanto mayor sea la tasa de
+        curaci\xF3n, \nmayor ser\xE1 el precio."
+      - "\u8868\u793A\u75AB\u82D7\u7684\u6CBB\u6108\u7387\u3002 \n \u6CBB\u6108\u7387\u8D8A\u9AD8\uFF0C\u50F9\u683C\u8D8A\u9AD8\u3002"
+      - "\u8868\u793A\u75AB\u82D7\u6CBB\u7597\u7387 \u6CBB\u7597\u7387\u8D8A\u9AD8\u5356\u7684\u4EF7\u683C\u8D8A\u9AD8"
+      - "<size=25>\u0423\u043A\u0430\u0437\u044B\u0432\u0430\u0435\u0442 \u0443\u0440\u043E\u0432\u0435\u043D\u044C
+        \u0438\u0437\u043B\u0435\u0447\u0435\u043D\u0438\u044F \u0432\u0430\u043A\u0446\u0438\u043D\u044B.\n\u0427\u0435\u043C
+        \u0432\u044B\u0448\u0435 \u0443\u0440\u043E\u0432\u0435\u043D\u044C \u0438\u0437\u043B\u0435\u0447\u0435\u043D\u0438\u044F,
+        \n\u0442\u0435\u043C \u0432\u044B\u0448\u0435 \u0446\u0435\u043D\u0430.</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Tutorial8
+      TermType: 0
+      Description: 
+      Languages:
+      - "<color=red>\uC644\uB8CC</color> \n\uBC31\uC2E0\uC744 \uB9CC\uB4E4\uC5B4 \uC138\uC0C1\uC744
+        \uAD6C\uD558\uC138\uC694"
+      - '<color=red>Complete</color>
+
+        Make a vaccine and save the world'
+      - "<color=red>\u5B8C\u4E86</color>\n \u30A2\u30AF\u30C1\u30F3\u3092\u4F5C\u3063\u3066\u4E16\u306E\u4E2D\u3092\u6551\u3063\u3066\u304F\u3060\u3055\u3044\u3002"
+      - "<color=red>Completar</color>\r\nHaz una vacuna y salva el mundo."
+      - "<color=red>\u5B8C\u6210</color>\n \u88FD\u4F5C\u75AB\u82D7\u4E26\u62EF\u6551\u4E16\u754C"
+      - "<color=red>\u5B8C\u6210</color> \u8BF7\u5236\u9020\u75AB\u82D7\u62EF\u6551\u4E16\u754C"
+      - "<color=red>\u043A\u043E\u043D\u0435\u0446</color>\n\u0422\u0435\u043F\u0435\u0440\u044C
+        \u0441\u043F\u0430\u0441\u0438\u0442\u0435 \u043C\u0438\u0440."
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UPGRADE
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC5C5\uADF8\uB808\uC774\uB4DC"
+      - UPGRADE
+      - "\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9"
+      - MEJORAR
+      - "\u5347\u7D1A"
+      - "\u5347\u7EA7"
+      - "\u041E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD130\uCE58\uB2F9 \uBC31\uC2E0 "
+      - vaccine per touch
+      - "\u30BF\u30C3\u30C1\u3054\u3068\u30EF\u30AF\u30C1\u30F32\u30B0\u30E9\u30E0"
+      - Vacuna por toque
+      - "\u6BCF\u9EDE\u64CA2\u514B\u75AB\u82D7"
+      - "\u6BCF\u70B9\u51FB2\u514B\u75AB\u82D7"
+      - vaccine per touch
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo10
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB51C\uB7EC \uD310\uB9E4 \uD6A8\uC728 + 10%"
+      - "Dealer sales \nefficiency + 10%"
+      - "\u30C7\u30A3\u30FC\u30E9\u30FC\u8CA9\u58F2\u52B9\u7387+10%"
+      - Eficacia de ventas + 10%.
+      - "\u7D93\u92B7\u5546\u92B7\u552E\u6548\u7387 + 10%"
+      - "\u552E\u8D27\u5458\u9500\u552E\u7387+10%"
+      - "\u042D\u0444\u0444\u0435\u043A\u0442\u0438\u0432\u043D\u043E\u0441\u0442\u044C
+        \n\u043F\u0440\u043E\u0434\u0430\u0436 \u0434\u0438\u043B\u0435\u0440\u0430
+        + 10%"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo11
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB51C\uB7EC \uD310\uB9E4 \uD6A8\uC728 + 20%"
+      - "Dealer sales \nefficiency + 20%"
+      - "\u30C7\u30A3\u30FC\u30E9\u30FC\u8CA9\u58F2\u52B9\u7387+20%"
+      - Eficacia de ventas + 20%.
+      - "\u7D93\u92B7\u5546\u92B7\u552E\u6548\u7387 + 20%"
+      - "\u552E\u8D27\u5458\u9500\u552E\u7387+20%"
+      - "\u042D\u0444\u0444\u0435\u043A\u0442\u0438\u0432\u043D\u043E\u0441\u0442\u044C
+        \n\u043F\u0440\u043E\u0434\u0430\u0436 \u0434\u0438\u043B\u0435\u0440\u0430
+        + 20%"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo12
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD130\uCE58\uB2F9 \uB79C\uB364\uC73C\uB85C \uC2DC\uC124\uC5D0 \n\uBC31\uC2E0\uBA54\uC774\uCEE4
+        \uC790\uB3D9 \uACE0\uC6A9 \uD655\uB960 +1%"
+      - "Probability of automatic hire of \nvaccinemakers in facilities at \nrandom
+        per touch +1%"
+      - "\u30BF\u30C3\u30C1\u3054\u3068\u30E9\u30F3\u30C0\u30E0\u306B\u65BD\u8A2D\u3078\n
+        \u30EF\u30AF\u30C1\u30F3\u30E1\u30FC\u30AB\u30FC\u81EA\u52D5\u96C7\u7528\u78BA\u7387+1%"
+      - "Al azar por toque Fabricante de\nvacunasprobabilidad \nde empleo de auto
+        + 1%"
+      - "\u6BCF\u6B21\u89F8\u6478\u96A8\u6A5F \n \u75AB\u82D7\u751F\u7522\u5546\u81EA\u52D5\u62DB\u8058\u6982\u7387+
+        1\uFF05"
+      - "\u6BCF\u70B9\u51FB\u4E00\u6B21\u968F\u673A\u589E\u52A0\u96C7\u4F63\u75AB\u82D7\u5236\u9020\u8005\u51E0\u7387
+        +1%\u5230\u8BBE\u65BD"
+      - "<size=17>\u0412 \u0441\u043B\u0443\u0447\u0430\u0439\u043D\u043E\u043C \u043F\u043E\u0440\u044F\u0434\u043A\u0435
+        \u0437\u0430 \n\u043F\u0440\u0438\u043A\u043E\u0441\u043D\u043E\u0432\u0435\u043D\u0438\u0435
+        \u0412\u0435\u0440\u043E\u044F\u0442\u043D\u043E\u0441\u0442\u044C \n\u0442\u0440\u0443\u0434\u043E\u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430
+        \n\u0443 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044F
+        \u0432\u0430\u043A\u0446\u0438\u043D + 1%</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo13
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB51C\uB7EC \uD310\uB9E4 \uD6A8\uC728 + 30%"
+      - "Dealer sales \nefficiency + 30%"
+      - "\u30C7\u30A3\u30FC\u30E9\u30FC\u8CA9\u58F2\u52B9\u7387+30%"
+      - Eficacia de ventas + 30%.
+      - "\u7D93\u92B7\u5546\u92B7\u552E\u6548\u7387 + 30%"
+      - "\u552E\u8D27\u5458\u9500\u552E\u7387+30%"
+      - "\u042D\u0444\u0444\u0435\u043A\u0442\u0438\u0432\u043D\u043E\u0441\u0442\u044C
+        \n\u043F\u0440\u043E\u0434\u0430\u0436 \u0434\u0438\u043B\u0435\u0440\u0430
+        + 30%"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo14
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCD5C\uB300 \uB51C\uB7EC \uC218 \uC99D\uAC00\n99,999,999,999,999"
+      - "Maximum number of \ndealers increased\n99,999,999,999,999"
+      - "\u6700\u5927\u30C7\u30A3\u30FC\u30E9\u30FC\u6570\u5897\u52A0\n 99,999,999,999,999"
+      - "N\xFAmero m\xE1ximo de \ndistribuidores aument\xF3\n99,999,999,999,999"
+      - "\u6700\u5927\u7D93\u92B7\u5546\u6578\u91CF\u589E\u52A0 99,999,999,999,999"
+      - "\u6700\u5927\u552E\u8D27\u5458\u6570\u589E\u52A0 99,999,999,999,999"
+      - "<size=20>\u041C\u0430\u043A\u0441\u0438\u043C\u0430\u043B\u044C\u043D\u043E\u0435
+        \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \n\u0434\u0438\u043B\u0435\u0440\u043E\u0432
+        \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u043B\u043E\u0441\u044C\n99,999,999,999,999</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo15
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBC31\uC2E0 \uC21C\uB3C4 100%"
+      - Vaccine purity + 100%
+      - "\u30EF\u30AF\u30C1\u30F3\u7D14\u5EA6100%"
+      - <size=22>Pureza de la vacuna + 100%</size>
+      - "\u75AB\u82D7\u7D14\u5EA6 + 100%"
+      - "\u75AB\u82D7\u7EAF\u5EA6 +100%"
+      - "<size=22>\u0427\u0438\u0441\u0442\u043E\u0442\u0430 \u0432\u0430\u043A\u0446\u0438\u043D\u044B
+        + 100%</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo16
+      TermType: 0
+      Description: 
+      Languages:
+      - "S.W.A.T \uB2A5\uB825 * 2"
+      - S.W.A.T ability * 2
+      - "S.W.A.T \u80FD\u529B * 2"
+      - S.W.A.T ability * 2
+      - "S.W.A.T\u80FD\u529B * 2"
+      - "S.W.A.T\u80FD\u529B * 2"
+      - S.W.A.T ability * 2
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo17
+      TermType: 0
+      Description: 
+      Languages:
+      - "S.W.A.T \uB2A5\uB825 * 2"
+      - S.W.A.T ability * 2
+      - "S.W.A.T \u80FD\u529B * 2"
+      - S.W.A.T ability * 2
+      - "S.W.A.T\u80FD\u529B * 2"
+      - "S.W.A.T\u80FD\u529B * 2"
+      - S.W.A.T ability * 2
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo18
+      TermType: 0
+      Description: 
+      Languages:
+      - "S.W.A.T \uB2A5\uB825 * 2"
+      - S.W.A.T ability * 2
+      - "S.W.A.T \u80FD\u529B * 2"
+      - S.W.A.T ability * 2
+      - "S.W.A.T\u80FD\u529B * 2"
+      - "S.W.A.T\u80FD\u529B * 2"
+      - S.W.A.T ability * 2
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo19
+      TermType: 0
+      Description: 
+      Languages:
+      - Kill
+      - Kill
+      - "Kill (\u30AD\u30EB)"
+      - Kill
+      - Kill
+      - "\u6740"
+      - Kill
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCD5C\uB300 \uB51C\uB7EC \uC218 \uC99D\uAC00\n4,000"
+      - "Maximum number of \ndealers increased\n4,000"
+      - "\u6700\u5927\u30C7\u30A3\u30FC\u30E9\u30FC\u6570\u5897\u52A0\n 4,000"
+      - "N\xFAmero m\xE1ximo de \ndistribuidores aument\xF3\n4,000"
+      - "\u6700\u5927\u7D93\u92B7\u5546\u6578\u91CF\u589E\u52A0 \n 4,000"
+      - "\u6700\u5927\u552E\u8D27\u5458\u6570\u589E\u52A0 4000"
+      - "<size=20>\u041C\u0430\u043A\u0441\u0438\u043C\u0430\u043B\u044C\u043D\u043E\u0435
+        \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \n\u0434\u0438\u043B\u0435\u0440\u043E\u0432
+        \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u043B\u043E\u0441\u044C\n4000</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo20
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC0C8\uB85C\uC6B4 \uD0DC\uC591"
+      - New World
+      - "\u65B0\u3057\u3044\u592A\u967D"
+      - nuevo mundo!
+      - "\u65B0\u4E16\u754C"
+      - "\u65B0\u592A\u9633"
+      - "\u041D\u043E\u0432\u044B\u0439 \u043C\u0438\u0440!"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB51C\uB7EC \uD310\uB9E4 \uD6A8\uC728 + 10%"
+      - "Dealer sales \nefficiency + 10%"
+      - "\u30C7\u30A3\u30FC\u30E9\u30FC\u8CA9\u58F2\u52B9\u7387+10%"
+      - Eficacia de ventas + 10%.
+      - "\u7D93\u92B7\u5546\u92B7\u552E\u6548\u7387 + 10%"
+      - "\u552E\u8D27\u5458\u9500\u552E\u7387+10%"
+      - "\u042D\u0444\u0444\u0435\u043A\u0442\u0438\u0432\u043D\u043E\u0441\u0442\u044C
+        \n\u043F\u0440\u043E\u0434\u0430\u0436 \u0434\u0438\u043B\u0435\u0440\u0430
+        + 10%"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCD5C\uB300 \uB51C\uB7EC \uC218 \uC99D\uAC00\n500,000"
+      - "Maximum number of \ndealers increased\n500,000"
+      - "\u6700\u5927\u30C7\u30A3\u30FC\u30E9\u30FC\u6570\u5897\u52A0\n 500,000"
+      - "N\xFAmero m\xE1ximo de \ndistribuidores aument\xF3\n500,000"
+      - "\u6700\u5927\u7D93\u92B7\u5546\u6578\u91CF\u589E\u52A0 500,000"
+      - "\u6700\u5927\u552E\u8D27\u5458\u6570\u589E\u52A0 500,000"
+      - "<size=20>\u041C\u0430\u043A\u0441\u0438\u043C\u0430\u043B\u044C\u043D\u043E\u0435
+        \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \n\u0434\u0438\u043B\u0435\u0440\u043E\u0432
+        \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u043B\u043E\u0441\u044C\n500,000</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uCD5C\uB300 \uB51C\uB7EC \uC218 \uC99D\uAC00\n500,000,000"
+      - "Maximum number of \ndealers increased\n500,000,000"
+      - "\u6700\u5927\u30C7\u30A3\u30FC\u30E9\u30FC\u6570\u5897\u52A0\n 500,000,000"
+      - "N\xFAmero m\xE1ximo de \ndistribuidores aument\xF3\n500,000,000"
+      - "\u6700\u5927\u7D93\u92B7\u5546\u6578\u91CF\u589E\u52A0 500,000,000"
+      - "\u6700\u5927\u552E\u8D27\u5458\u6570\u589E\u52A0 500,000,000"
+      - "<size=20>\u041C\u0430\u043A\u0441\u0438\u043C\u0430\u043B\u044C\u043D\u043E\u0435
+        \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \n\u0434\u0438\u043B\u0435\u0440\u043E\u0432
+        \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u043B\u043E\u0441\u044C\n500,000,000</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBC31\uC2E0 \uC21C\uB3C4 + 5%"
+      - Vaccine purity + 5%
+      - "\u30EF\u30AF\u30C1\u30F3\u7D14\u5EA6+5%"
+      - Pureza de la vacuna + 5%
+      - "\u75AB\u82D7\u7D14\u5EA6 + 5%"
+      - "\u75AB\u82D7\u7EAF\u5EA6+5%"
+      - "\u0427\u0438\u0441\u0442\u043E\u0442\u0430 \u0432\u0430\u043A\u0446\u0438\u043D\u044B
+        + 5%"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo7
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBC31\uC2E0 \uC21C\uB3C4 + 5%"
+      - Vaccine purity + 5%
+      - "\u30EF\u30AF\u30C1\u30F3\u7D14\u5EA6+5%"
+      - Pureza de la vacuna + 5%
+      - "\u75AB\u82D7\u7D14\u5EA6 + 5%"
+      - "\u75AB\u82D7\u7EAF\u5EA6+6%"
+      - "\u0427\u0438\u0441\u0442\u043E\u0442\u0430 \u0432\u0430\u043A\u0446\u0438\u043D\u044B
+        + 5%"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo8
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBC31\uC2E0 \uC21C\uB3C4 + 5%"
+      - Vaccine purity + 5%
+      - "\u30EF\u30AF\u30C1\u30F3\u7D14\u5EA6+5%"
+      - Pureza de la vacuna + 5%
+      - "\u75AB\u82D7\u7D14\u5EA6 + 5%"
+      - "\u75AB\u82D7\u7EAF\u5EA6+7%"
+      - "\u0427\u0438\u0441\u0442\u043E\u0442\u0430 \u0432\u0430\u043A\u0446\u0438\u043D\u044B
+        + 5%"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeInfo9
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB51C\uB7EC \uD310\uB9E4 \uD6A8\uC728 + 10%"
+      - "Dealer sales \nefficiency + 10%"
+      - "\u30C7\u30A3\u30FC\u30E9\u30FC\u8CA9\u58F2\u52B9\u7387+10%"
+      - Eficacia de ventas + 10%.
+      - "\u7D93\u92B7\u5546\u92B7\u552E\u6548\u7387 + 10%"
+      - "\u552E\u8D27\u5458\u9500\u552E\u7387+10%"
+      - "\u042D\u0444\u0444\u0435\u043A\u0442\u0438\u0432\u043D\u043E\u0441\u0442\u044C
+        \n\u043F\u0440\u043E\u0434\u0430\u0436 \u0434\u0438\u043B\u0435\u0440\u0430
+        + 10%"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB354\uBE14"
+      - Double
+      - "\u30C0\u30D6\u30EB"
+      - Doble
+      - "\u96D9\u500D"
+      - "\u53CC\u500D"
+      - "\u0434\u0432\u043E\u0439\u043D\u043E\u0439"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName10
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uBE44\uBC00 \uC131\uBD84"
+      - 'Secret
+
+        ingredient'
+      - "\u79D8\u5BC6\u6210\u5206"
+      - "Ingrediente \nsecreto"
+      - "\u7955\u5BC6\u6210\u5206"
+      - "\u79D8\u5BC6\u6210\u5206"
+      - "\u0421\u0435\u043A\u0440\u0435\u0442\u043D\u044B\u0439 \n\u0438\u043D\u0433\u0440\u0435\u0434\u0438\u0435\u043D\u0442"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName11
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC815\uCE58\uAC00"
+      - Politician
+      - "\u653F\u6CBB\u5BB6"
+      - "Pol\xEDtico"
+      - "\u653F\u6CBB\u5BB6"
+      - "\u653F\u6CBB\u5BB6"
+      - "\u043F\u043E\u043B\u0438\u0442\u0438\u043A"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName12
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uACFC\uD559"
+      - Science
+      - "\u79D1\u5B66"
+      - Ciencia
+      - "\u79D1\u5B78"
+      - "\u79D1\u5B66"
+      - "\u041D\u0430\u0443\u043A\u0430"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName13
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC678\uAD50\uAD00"
+      - Diplomat
+      - "\u5916\u4EA4\u5B98"
+      - "Diplom\xE1tico"
+      - "\u5916\u4EA4\u5B98"
+      - "\u5916\u4EA4\u5B98"
+      - "\u0414\u0438\u043F\u043B\u043E\u043C\u0430\u0442"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName14
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC0C8\uB85C\uC6B4 \uC138\uACC4"
+      - New World!
+      - "\u65B0\u3057\u3044\u4E16\u754C"
+      - nuevo mundo!
+      - "\u65B0\u4E16\u754C"
+      - "\u65B0\u4E16\u754C"
+      - "\u041D\u043E\u0432\u044B\u0439 \u043C\u0438\u0440!"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName15
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC554\uD751 \uBB3C"
+      - Dark water
+      - "\u6697\u9ED2\u306A\u6C34"
+      - Agua oscura
+      - "\u6697\u6C34"
+      - "\u6697\u6C34"
+      - "\u0422\u0435\u043C\u043D\u0430\u044F \u0432\u043E\u0434\u0430"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName16
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC288\uD37C \uB51C\uB7EC"
+      - Super Dealer
+      - "\u30B9\u30FC\u30D1\u30FC\u30C7\u30A3\u30FC\u30E9\u30FC"
+      - Super Dealer
+      - "\u8D85\u7D1A\u7D93\u92B7\u5546"
+      - "\u8D85\u7EA7\u552E\u8D27\u5458"
+      - "\u0421\u0443\u043F\u0435\u0440 \u0414\u0438\u043B\u0435\u0440"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName17
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uB178\uC608 \uBB34\uC5ED\uC0C1"
+      - Slave Trader
+      - "\u5974\u96B7\u8CBF\u6613\u8CA9\u58F2"
+      - Slave Trader
+      - "\u5974\u96B8\u8CBF\u6613\u5546"
+      - "\u52AA\u529B\u8D38\u6613\u5546"
+      - Slave Trader
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName18
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC778\uD615\uADF9"
+      - Puppetshow
+      - "\u4EBA\u5F62\u5287"
+      - marionetas
+      - "\u6728\u5076\u5287"
+      - "\u6728\u5076\u5267"
+      - "\u041A\u0443\u043A\u043E\u043B\u044C\u043D\u044B\u0439"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName19
+      TermType: 0
+      Description: 
+      Languages:
+      - Kill zombie
+      - Kill zombie
+      - "\u30AD\u30EB \u30BE\u30F3\u30D3(Kill zombie)"
+      - Kill zombie
+      - "\u6BBA\u6BAD\u5C4D"
+      - "\u6740\u50F5\u5C38"
+      - Kill zombie
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD655\uC7A5 I"
+      - Extension I
+      - "\u62E1\u5F35 I"
+      - "Extensi\xF3n I"
+      - "\u64F4\u5C55 I"
+      - "\u6269\u5C55I"
+      - "<size=17>\u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043D\u0438\u0435 I</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName20
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC77C\uCD9C"
+      - Sunrise
+      - "\u65E5\u306E\u51FA"
+      - amanecer
+      - "\u65E5\u51FA"
+      - "\u65E5\u51FA"
+      - "\u0412\u043E\u0441\u0445\u043E\u0434"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uAD70\uC778 \uD22C\uC785"
+      - Soldier Input
+      - "\u8ECD\u4EBA\u6295\u5165"
+      - 'reclutamiento
+
+        militar'
+      - "\u8ECD\u4EBA\u6295\u5165"
+      - "\u519B\u4EBA\u6295\u8D44"
+      - "\u0432\u0445\u043E\u0434 \u0441\u043E\u043B\u0434\u0430\u0442"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD655\uC7A5 II"
+      - Extension II
+      - "\u62E1\u5F35 II"
+      - "Extensi\xF3n II"
+      - "\u64F4\u5C55 II"
+      - "\u6269\u5C55 II"
+      - "<size=17>\u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043D\u0438\u0435 II</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uD655\uC7A5 III"
+      - Extenstion III
+      - "\u62E1\u5F35 III"
+      - "Extensi\xF3n III"
+      - "\u64F4\u5C55 III"
+      - "\u6269\u5C55 III"
+      - "<size=17>\u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043D\u0438\u0435 III</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC815\uD654 I"
+      - Purification I
+      - "\u6D44\u5316 I"
+      - Purificacion I
+      - "\u6DE8\u5316 I"
+      - "\u51C0\u5316 I"
+      - "\u043E\u0447\u0438\u0449\u0435\u043D\u0438\u0435 I"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName7
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC815\uD654 II"
+      - Purification II
+      - "\u6D44\u5316 II"
+      - Purificacion II
+      - "\u6DE8\u5316 II"
+      - "\u51C0\u5316 II"
+      - "\u043E\u0447\u0438\u0449\u0435\u043D\u0438\u0435 II"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName8
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC815\uD654 III"
+      - Purification III
+      - "\u6D44\u5316 III"
+      - <size=17>Purificacion III</size>
+      - "\u6DE8\u5316 III"
+      - "\u51C0\u5316 III"
+      - "\u043E\u0447\u0438\u0449\u0435\u043D\u0438\u0435 III"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UpgradeName9
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uC5FC\uC18C\uC218\uC5FC"
+      - Goatee
+      - "\u7F8A\u306E\u9AED"
+      - Barbas de chivo
+      - "\u5C71\u7F8A\u80E1"
+      - "\u5C71\u7F8A\u80E1"
+      - "\u042D\u0441\u043F\u0430\u043D\u044C\u043E\u043B\u043A\u0430"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: continue
+      TermType: 0
+      Description: 
+      Languages:
+      - "\uACC4\uC18D \uD558\uAE30"
+      - Continue
+      - "\u7D9A\u3051\u3066\u5B9F\u884C"
+      - "Contin\xFAe"
+      - "\u7E7C\u7E8C"
+      - "\u7EE7\u7EED"
+      - "<size=25>\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0430\u0439</size>"
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Color/Red
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - Red
+      - 
+      - Rojo
+      - 
+      - 
+      - 
+      - Rouge
+      Flags: 0000000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: Korean
+      Code: ko
+      Flags: 0
+    - Name: English
+      Code: en-US
+      Flags: 0
+    - Name: Japanese
+      Code: ja
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    - Name: Chinese (Taiwan)
+      Code: zh-TW
+      Flags: 0
+    - Name: Chinese
+      Code: zh
+      Flags: 0
+    - Name: Russian
+      Code: ru
+      Flags: 0
+    - Name: French
+      Code: fr-BE
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbwCq9Nej52HTErQs9Yzg91uAnUOWJ5APyBjZXdF/exec
+    Google_SpreadsheetKey: 1FyFvO66Ndhp0Zh80y7XnrPkPgbve-KYhg-h6Z75G50Y
+    Google_SpreadsheetName: I2Loc VaccineMaster:ZombieWar Assets/Scenes/VaccineMaster.unity
+      LocalizationSource
+    Google_LastUpdatedVersion: 1555851514023
+    Google_Password: ghdlttmxbeldh
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
